@@ -1,11 +1,11 @@
 {
-  "name": "vue-loader-ie8",
+  "name": "tpl-loader-ie8",
   "version": "8.5.2",
   "description": "Vue.js component loader for Webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/idujiayou/tpl-loader-ie8.git"
+    "url": "git+ssh://git@github.com:idujiayou/tpl-loader-ie8.git"
   },
   "keywords": [
     "vue",
