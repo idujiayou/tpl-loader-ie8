@@ -3,7 +3,10 @@
   "version": "8.5.2",
   "description": "Vue.js component loader for Webpack",
   "main": "index.js",
-  "repository": "git+ssh://git@github.com:idujiayou/tpl-loader-ie8",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idujiayou/tpl-loader-ie8.git"
+  },
   "keywords": [
     "vue",
     "webpack",
@@ -13,7 +16,7 @@
     "index.js",
     "lib"
   ],
-  "author": "idujiayou",
+  "author": "Sjoerd Visscher",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/idujiayou/tpl-loader-ie8/issues"
